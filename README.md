@@ -6,7 +6,7 @@ Used the concept of Image Steganography. Here the sender embeds the secret messa
 
 ## Installation 
 
-Install required modules my-project
+Install required modules for my-project
 
 ```bash 
    pip install numpy
